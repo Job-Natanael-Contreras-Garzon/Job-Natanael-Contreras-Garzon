@@ -90,40 +90,86 @@ Desarrollador Full Stack con experiencia en **React**, **Next.js**, **Django** y
 </p>
 
 ---
+## 🎯 Tech Stack & Skills
 
-## 🎯 Habilidades Clave
+<div align="center">
 
-```javascript
-const job = {
-  code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "Solidity"],
-  technologies: {
-    frontend: {
-      frameworks: ["React", "Next.js", "Angular"],
-      mobile: ["Flutter"],
-      ui: ["Responsive Design", "Modern UI/UX"]
-    },
-    backend: {
-      python: ["Django", "FastAPI"],
-      java: ["Spring Boot"],
-      javascript: ["Node.js", "Express"]
-    },
-    databases: {
-      relational: ["PostgreSQL", "MySQL", "SQL Server"],
-      noSQL: ["Firebase", "Supabase"]
-    },
-    devOps: ["Git", "GitHub", "Heroku", "Vercel", "Aiven"],
-    architecture: ["RESTful APIs", "Microservices", "Client-Server"]
-  },
-  methodologies: ["SCRUM", "RUP/PUDS"],
-  softSkills: [
-    "Trabajo en equipo",
-    "Proactividad",
-    "Resolución de problemas",
-    "Comunicación efectiva",
-    "Aprendizaje continuo"
-  ]
-};
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### 🚀 Lo que domino
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<br><strong>Java</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<br><strong>TypeScript</strong>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+<br><strong>Django</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<br><strong>MySQL</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<br><strong>Docker</strong>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📊 Distribución de Skills
+
+```mermaid
+pie title Stack Distribution
+    "Frontend" : 35
+    "Backend" : 40
+    "Database" : 15
+    "DevOps" : 10
 ```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 Experiencia en...
+
+| 🎨 Frontend | ⚙️ Backend | 💾 Database | 🛠️ Tools |
+|------------|-----------|------------|---------|
+| React ⚛️ | Django 🐍 | PostgreSQL 🐘 | Git 📦 |
+| Next.js ▲ | FastAPI ⚡ | MySQL 🐬 | GitHub 🐙 |
+| Angular 🅰️ | Spring Boot ☕ | Supabase ⚡ | Vercel ▲ |
+| Flutter 📱 | Node.js 🟢 | Firebase 🔥 | Heroku 💜 |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">```
 
 ---
 
